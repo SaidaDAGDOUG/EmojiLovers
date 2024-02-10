@@ -7,10 +7,10 @@ This iOS app is my implementation based on a beginner-friendly tutorial from [iO
 
 ## Tutorial Details
 
-- **YouTube Tutorial:** [How to Make Your Very First iOS App in Xcode using SwiftUI](Tutorial_Link)
+- **YouTube Tutorial:** [How to Make Your Very First iOS App in Xcode using SwiftUI] [Tutorial_Link](https://www.youtube.com/watch?v=nqTcAzPS3oc&t=203s)
 - **Instructor:** [Afraz Siddiqui](https://www.linkedin.com/in/afrazsiddiqui/)
 - **Tutorial Date:**  3 janv. 2023
-- **Subscribe to iOS Academy:** [iOS Academy YouTube Channel](https://www.youtube.com/iOSAcademy?sub_confirmation=1)
+
 
 ## Features
 
